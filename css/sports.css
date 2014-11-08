@@ -2,7 +2,7 @@
 
 
 body.splash {
-	background-color: #E7FF00;
+	background-color: #009DFF;
 }
 
 .fields {
@@ -12,7 +12,7 @@ body.splash {
 	margin-top: 16%;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: rgba(0,125,204,0.8);
+	background-color: rgba(0,125,204,0.2);
 	border-radius: 10em;
 	padding: 15px;
 	padding-top: 25%;
@@ -30,7 +30,7 @@ h2 {
 	  z-index: 100;
 	  font-size: 1em;
 	  margin-top: -20px;
-	  color: #900000;
+	  color: #FFFC00;
   color: white;
 }
 
@@ -45,7 +45,7 @@ label {
 
 #title {
 	position: absolute;
-	background-color: rgba(0,0,55,0.3);
+	background-color: rgba(0,125,204,0.8);
 	left: 2%;
     top: 2%;
     width: 400px;
