@@ -9,7 +9,7 @@ $(document).ready(function(){
         $(this).css("color","black");
     }, function(){
         $(this).css("background-color","rgba(255,255,133,0.8)");
-        $(this).css("color","white");
+        $(this).css("color","#90544B");
     }); // ends enter button hover
 
   //this just hides the fields because it was being weird about
