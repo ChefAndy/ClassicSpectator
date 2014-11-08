@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lobster|Crete+Round);
+@import url(http://fonts.googleapis.com/css?family=Pacifico|Patua+One);
 
 
 body.splash {
@@ -19,14 +19,14 @@ body.splash {
 }
 
 h1 {
-	font-family: 'Crete Round', serif;
+	font-family: 'Pacifico', cursive;
   font-size: 2em;
   z-index: 100;
   color: red;
 }
 
 h2 {
-	font-family: 'Lobster', cursive;
+	font-family: 'Crete Round', serif;
 	  z-index: 100;
 	  font-size: .95em;
 	  margin-top: -20px;
@@ -36,7 +36,7 @@ h2 {
 
 
 label {
-	font-family: 'Lobster', cursive;
+	font-family: 'Crete Round', serif;
 	font-size: 2em;
 	color: white;
 	  z-index: 100;
@@ -60,7 +60,7 @@ label {
     width: 3em;
     height: 1.5em;
     z-index: 100;
-	font-family: 'Crete Round', serif;
+	font-family: 'Pacifico', cursive;
   	font-size: 3em;
   	z-index: 100;
   	color: white;
@@ -124,7 +124,7 @@ img.frameanim {
 /* Products page */
 .proddesc {
 	font-size: 1.5em;
-	font-family: 'Crete Round', serif;
+	font-family: 'Pacifico', cursive;
 }
 .prodimg {
 	width: 220px;
